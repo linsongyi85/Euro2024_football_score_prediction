@@ -1,8 +1,8 @@
 Euro2024_football_score_prediction
-Football Score prediction,1X2 prediction,Goals over/under 2.5 prediction for all Eruo2024 all matches.
+Football Score prediction,1X2 prediction,Goals over/under 2.5 prediction for all Euro2024 all matches using history matches from 2018-01-01 to 2024-06-10 of all 24 teams of Euro2024.
 
 You can visit the url and check all the prediction results of all Eruo2024 matches.
-For example: Prediction results of the first game of Euro2024 :Germany vs Scotland are:
+For example: Prediction results of the a match of Euro2024 :Albania	VS Austria are:
 
 -----------------------------------
 
