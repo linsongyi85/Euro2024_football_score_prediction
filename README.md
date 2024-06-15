@@ -4,6 +4,8 @@ Football Score prediction,1X2 prediction,Goals over/under 2.5 prediction for all
 You can visit the url and check all the prediction results of all Eruo2024 matches.
 For example: Prediction results of the first game of Euro2024 :Germany vs Scotland are:
 
+-----------------------------------
+
 HOME and GUEST Exact GOAL
 
 球队team	goal1	goal2	goal3	goal4	goal5
@@ -14,6 +16,7 @@ Albania	0.37	0.17	0.05	0.01	0
 
 Austria	0.32	0.26	0.14	0.06	0.02
 
+-----------------------------------
 
 GOALS
 
@@ -22,7 +25,7 @@ GOALS
 Albania	Austria	0.92	1.64
 
 
-
+-----------------------------------
 
 1X2
 
@@ -30,10 +33,13 @@ Albania	Austria	0.92	1.64
 
 Albania	Austria	0.21	0.25	0.54
 
-
+-----------------------------------
 
 2.5 GOALS
+
 主队home	客队guest	小于under 2.5	大于over 2.5
+
 Albania	Austria	0.53	0.47
+
 
 
